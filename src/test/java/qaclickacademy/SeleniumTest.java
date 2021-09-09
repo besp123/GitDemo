@@ -9,7 +9,7 @@ public class SeleniumTest {
 	@Test
 	public void BrowserAUtomation()
 	{
-		System.out.println("BrowserAUtomation");	
+		System.out.println("BrowserAUtomation1");	
 		
 		System.out.println("Web automation");	
 	}
@@ -25,6 +25,10 @@ public class SeleniumTest {
 	}
 	@Test
 	public void elementsU1ssi()
+	{
+		System.out.println("elementfdsUi");	
+	}
+	public void elementsU1sssi()
 	{
 		System.out.println("elementfdsUi");	
 	}
